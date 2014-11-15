@@ -1,6 +1,6 @@
 Feature: Creating lunches
 
-	Feature: Creating a lunch
+	Scenario: Creating a lunch
 		Given I am a registered user
 		And my status is ADMIN
 		When I create a lunch
